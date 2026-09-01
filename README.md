@@ -556,8 +556,11 @@
 ## 40. Ion Serverless Event Processing Platform
 
 **Project Name:** Ion Serverless Event Processing Platform
+
 **Industry:** SaaS
+
 **Difficulty Level:** Level 3 – Senior
+
 **Tools & Technologies:** AWS Lambda, API Gateway, EventBridge, Step Functions, SQS, SNS, DynamoDB, Terraform, CloudWatch, X-Ray
 
 **Purpose:** Build a real-world ** SaaS platform designed to provide resilient and secure connectivity, traffic management, and controlled service-to-service communication while also helping teams build reliable asynchronous processing with scalable event routing, replay, recovery, observability, and back-pressure controls. The project should demonstrate measurable business impact through automation, security, reliability, governance, cost control, and production-ready operational workflows rather than functioning as a simple tool demonstration.
@@ -567,8 +570,11 @@
 ## 41. Olympus Cross-Cloud Disaster Recovery Fabric
 
 **Project Name:** Olympus Cross-Cloud Disaster Recovery Fabric
+
 **Industry:** Enterprise Cloud
+
 **Difficulty Level:** Level 4 – Principal / Enterprise
+
 **Tools & Technologies:** AWS EKS, Azure AKS, Terraform, Crossplane, ArgoCD, Route 53, Azure DNS, AWS Backup, Azure Backup, PostgreSQL Replication
 
 **Purpose:** Build a real-world ** Enterprise Cloud platform designed to prove recoverability and reduce service downtime through automated backup, replication, failover, and recovery orchestration while also helping teams increase data availability and operational resilience through controlled database operations, connection management, replication, and recovery. The project should demonstrate measurable business impact through automation, security, reliability, governance, cost control, and production-ready operational workflows rather than functioning as a simple tool demonstration.
@@ -578,8 +584,11 @@
 ## 42. Titan Active-Active Global Commerce Platform
 
 **Project Name:** Titan Active-Active Global Commerce Platform
+
 **Industry:** Global E-Commerce
+
 **Difficulty Level:** Level 4 – Principal / Enterprise
+
 **Tools & Technologies:** Multi-Region EKS, Kubernetes, Route 53, Global Accelerator, CloudFront, ArgoCD, Istio, PostgreSQL, Redis, Kafka, Terraform
 
 **Purpose:** Build a real-world ** Global E-Commerce platform designed to operate Kubernetes workloads at enterprise scale with consistent security, isolation, policy, deployment, and lifecycle controls, increase data availability and operational resilience through controlled database operations, connection management, replication, and recovery, and build reliable asynchronous processing with scalable event routing, replay, recovery, observability, and back-pressure controls. The project should demonstrate measurable business impact through automation, security, reliability, governance, cost control, and production-ready operational workflows rather than functioning as a simple tool demonstration.
@@ -589,8 +598,11 @@
 ## 43. Forge Platform API Control Plane
 
 **Project Name:** Forge Platform API Control Plane
+
 **Industry:** Platform Engineering
+
 **Difficulty Level:** Level 4 – Principal / Enterprise
+
 **Tools & Technologies:** Backstage, Crossplane, Kubernetes APIs, Go, Python, EKS, AKS, Terraform, ArgoCD, Helm, OPA, Kyverno
 
 **Purpose:** Build a real-world ** Platform Engineering platform designed to govern resource ownership, allocation, lifecycle, and decommissioning to reduce waste and operational risk, operate Kubernetes workloads at enterprise scale with consistent security, isolation, policy, deployment, and lifecycle controls, and provide resilient and secure connectivity, traffic management, and controlled service-to-service communication. The project should demonstrate measurable business impact through automation, security, reliability, governance, cost control, and production-ready operational workflows rather than functioning as a simple tool demonstration.
@@ -600,8 +612,11 @@
 ## 44. Helix Kubernetes Fleet Management System
 
 **Project Name:** Helix Kubernetes Fleet Management System
+
 **Industry:** Enterprise Cloud
+
 **Difficulty Level:** Level 4 – Principal / Enterprise
+
 **Tools & Technologies:** Kubernetes, Cluster API, ArgoCD, Terraform, Helm, Kustomize, Cilium, Prometheus, Grafana, Kyverno
 
 **Purpose:** Build a real-world ** Enterprise Cloud platform designed to operate Kubernetes workloads at enterprise scale with consistent security, isolation, policy, deployment, and lifecycle controls while also helping teams provide resilient and secure connectivity, traffic management, and controlled service-to-service communication. The project should demonstrate measurable business impact through automation, security, reliability, governance, cost control, and production-ready operational workflows rather than functioning as a simple tool demonstration.
@@ -611,8 +626,11 @@
 ## 45. Cipher Enterprise DevSecOps Pipeline
 
 **Project Name:** Cipher Enterprise DevSecOps Pipeline
+
 **Industry:** Cybersecurity
+
 **Difficulty Level:** Level 4 – Principal / Enterprise
+
 **Tools & Technologies:** GitHub Actions, SonarQube, Semgrep, CodeQL, Snyk, Gitleaks, Trivy, Syft, Cosign, Sigstore, SLSA, Kubernetes
 
 **Purpose:** Build a real-world ** Cybersecurity platform designed to operate Kubernetes workloads at enterprise scale with consistent security, isolation, policy, deployment, and lifecycle controls. The project should demonstrate measurable business impact through automation, security, reliability, governance, cost control, and production-ready operational workflows rather than functioning as a simple tool demonstration.
@@ -622,8 +640,11 @@
 ## 46. Pulse Error Budget Deployment Controller
 
 **Project Name:** Pulse Error Budget Deployment Controller
+
 **Industry:** SaaS / SRE
+
 **Difficulty Level:** Level 4 – Principal / Enterprise
+
 **Tools & Technologies:** Prometheus, PromQL, Grafana, Argo Rollouts, ArgoCD, Kubernetes, Python, OpenTelemetry, Alertmanager, SLO, Error Budgets
 
 **Purpose:** Build a real-world ** SaaS / SRE platform designed to reduce cloud and Kubernetes spend through visibility, allocation, anomaly detection, and automated optimization, improve production reliability by correlating telemetry, defining service objectives, detecting failures, and accelerating response, and operate Kubernetes workloads at enterprise scale with consistent security, isolation, policy, deployment, and lifecycle controls. The project should demonstrate measurable business impact through automation, security, reliability, governance, cost control, and production-ready operational workflows rather than functioning as a simple tool demonstration.
@@ -633,8 +654,11 @@
 ## 47. Avalanche Traffic Surge Engineering Platform
 
 **Project Name:** Avalanche Traffic Surge Engineering Platform
+
 **Industry:** E-Commerce
+
 **Difficulty Level:** Level 4 – Principal / Enterprise
+
 **Tools & Technologies:** k6, JMeter, Kubernetes, KEDA, HPA, Cluster Autoscaler, Prometheus, Grafana, Redis, CloudFront, ALB
 
 **Purpose:** Build a real-world ** E-Commerce platform designed to operate Kubernetes workloads at enterprise scale with consistent security, isolation, policy, deployment, and lifecycle controls, provide resilient and secure connectivity, traffic management, and controlled service-to-service communication, and predict demand and automate capacity decisions so workloads remain performant without unnecessary overprovisioning. The project should demonstrate measurable business impact through automation, security, reliability, governance, cost control, and production-ready operational workflows rather than functioning as a simple tool demonstration.
@@ -644,8 +668,11 @@
 ## 48. Hydra Multi-Cluster Service Fabric
 
 **Project Name:** Hydra Multi-Cluster Service Fabric
+
 **Industry:** Enterprise SaaS
+
 **Difficulty Level:** Level 4 – Principal / Enterprise
+
 **Tools & Technologies:** Kubernetes, EKS, AKS, Istio, Cilium, ArgoCD, Helm, mTLS, Prometheus, Grafana, OpenTelemetry
 
 **Purpose:** Build a real-world ** Enterprise SaaS platform designed to operate Kubernetes workloads at enterprise scale with consistent security, isolation, policy, deployment, and lifecycle controls. The project should demonstrate measurable business impact through automation, security, reliability, governance, cost control, and production-ready operational workflows rather than functioning as a simple tool demonstration.
@@ -655,8 +682,11 @@
 ## 49. Obsidian Cloud Security Operations Platform
 
 **Project Name:** Obsidian Cloud Security Operations Platform
+
 **Industry:** Cybersecurity
+
 **Difficulty Level:** Level 4 – Principal / Enterprise
+
 **Tools & Technologies:** GuardDuty, Security Hub, CloudTrail, AWS Config, Defender for Cloud, Azure Policy, EventBridge, Lambda, Python, SIEM
 
 **Purpose:** Build a real-world ** Cybersecurity platform designed to embed preventative, detective, and auditable security controls across infrastructure and software delivery while also helping teams build reliable asynchronous processing with scalable event routing, replay, recovery, observability, and back-pressure controls. The project should demonstrate measurable business impact through automation, security, reliability, governance, cost control, and production-ready operational workflows rather than functioning as a simple tool demonstration.
@@ -666,8 +696,11 @@
 ## 50. Solaris Automated Capacity Planning Engine
 
 **Project Name:** Solaris Automated Capacity Planning Engine
+
 **Industry:** Cloud Infrastructure
+
 **Difficulty Level:** Level 4 – Principal / Enterprise
+
 **Tools & Technologies:** Prometheus, Grafana, Python, Kubernetes Metrics Server, HPA, VPA, Cluster Autoscaler, KEDA, CloudWatch
 
 **Purpose:** Build a real-world ** Cloud Infrastructure platform designed to operate Kubernetes workloads at enterprise scale with consistent security, isolation, policy, deployment, and lifecycle controls while also helping teams predict demand and automate capacity decisions so workloads remain performant without unnecessary overprovisioning. The project should demonstrate measurable business impact through automation, security, reliability, governance, cost control, and production-ready operational workflows rather than functioning as a simple tool demonstration.
