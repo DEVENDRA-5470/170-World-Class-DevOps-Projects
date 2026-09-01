@@ -5,8 +5,10 @@
 
 ## 1. Atlas Payment Resilience Fabric
 
-**Project Name:** Atlas Payment Resilience Fabric \n
+**Project Name:** Atlas Payment Resilience Fabric 
+
 **Industry:** FinTech
+
 **Difficulty Level:** Level 4 – Principal / Enterprise
 **Tools & Technologies:** AWS, EKS, Kubernetes, Terraform, ArgoCD, Kafka, PostgreSQL, Redis, Prometheus, Grafana, OpenTelemetry, Vault, Kyverno
 
