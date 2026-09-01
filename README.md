@@ -1,4 +1,4 @@
-# 160+ World-Class DevOps, DevSecOps, SRE & Platform Engineering Projects
+# 170+ World-Class DevOps, DevSecOps, SRE & Platform Engineering Projects
 
 **Domains:** Platform Engineering, Kubernetes, SRE, DevSecOps, Cloud Governance, FinOps, Multi-Cloud, Disaster Recovery, Event Streaming, Database Reliability, Networking, and Observability.
 
